@@ -1,24 +1,32 @@
 # Health-Care-Analytics
 Power Bi Dashboard
 
-Description: This Power BI project is designed to provide comprehensive insights
-into patient health data. The dashboard visualizes critical metrics and trends,
-enabling healthcare professionals to make informed decisions. 
+Project Title: Health Care Analytics
+Objective:
+To analyze patient health data to identify key health risk factors and trends, and to provide actionable insights for improving patient care and health outcomes.
 
-Key features include:-
+Dataset:
+The dataset includes various health metrics such as:
 
-Total Patients: 5191
-Females Not Overweight: 1409
-Habit of Smoking with High Health Risk: 384
-Female & Moderate Health Risk visiting >30 min: 853
+Total patient count
+Gender distribution
+Health risk habits (e.g., smoking)
+Heart attack and stroke risks
+Age group distribution
 
-The dashboard includes various visualizations such as pie charts, donut charts, and
-bar charts to represent data on heart attack occurrences, stroke occurrences, health
-risk by age group, health by wealth, and average weight by occupation.
+Insights:
+Gender Distribution: Analyze the proportion of male and female patients and their respective health risks.
+Health Risk Habits: Identify the percentage of patients with habits like smoking and their correlation with health risks.
+Heart Attack and Stroke Risks: Determine the percentage of patients at risk of heart attacks and strokes.
+Age Group Analysis: Examine health risks across different age groups.
+Overweight Analysis: Assess the distribution of overweight patients by gender and race.
 
+Steps to Follow:
+Data Cleaning: Ensure the dataset is free from inconsistencies, typos, and missing values.
+Data Segmentation: Break down the data into meaningful segments (e.g., by gender, age group).
+Data Visualization: Use charts and graphs to visualize the data and identify patterns.
+Statistical Analysis: Perform statistical tests to validate the insights.
+Report Generation: Compile the findings into a comprehensive report with actionable recommendations.
 
-Aim: The aim of this project is to leverage data analytics to improve healthcare
-outcomes by providing actionable insights into patient health trends and risk
-factors. By visualizing data effectively, the project seeks to support healthcare
-providers in identifying high-risk patients, understanding demographic health
-patterns, and making data-driven decisions to enhance patient care.
+Aim:
+To leverage data analytics to improve patient care by identifying key health risk factors and trends, thereby enabling healthcare providers to make informed decisions and implement effective interventions.
